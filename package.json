@@ -1,0 +1,14 @@
+{
+  "name": "lunna",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/JohnnyHall/lunna.git",
+  "author": "João Tápparo <joaovtapparo@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.1.2"
+  },
+  "devDependencies": {
+    "eslint": "^8.21.0"
+  }
+}
